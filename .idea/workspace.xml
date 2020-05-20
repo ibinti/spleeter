@@ -68,7 +68,14 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="374" y="191" key="SettingsEditor" timestamp="1590009778052">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state x="374" y="191" key="SettingsEditor/282.1103.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1590009778052" />
     <state x="536" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1590007626174">
       <screen x="54" y="23" width="1866" height="1057" />
     </state>
